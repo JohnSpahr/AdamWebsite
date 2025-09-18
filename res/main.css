@@ -87,6 +87,12 @@ img {
   max-width: 90%;
 }
 
+.bigPic {
+  width: 90%;
+  max-width: 600px;
+  background: white;
+}
+
 @keyframes wave {
   0%,
   100% {
